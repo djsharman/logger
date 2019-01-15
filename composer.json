@@ -1,4 +1,6 @@
 {
+    "name": "djsharman/logger",
+    "description": "A quick and dirty PSR logger.",
     "minimum-stability": "dev",
     "prefer-stable" : true,
     "require": {
